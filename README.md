@@ -33,3 +33,4 @@ Features:-
 (b). When the user deletes an alarm make sure it “does not alerts the user”
 
 
+![Screenshot (172)](https://user-images.githubusercontent.com/66356658/183273512-8ef9869f-c2bd-4287-8824-e3d78650a71a.png)
